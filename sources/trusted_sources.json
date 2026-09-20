@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "source": "NPCI",
+        "category":"Finance",
+        "topic": "UPI",
+        "text": "Unified Payments Interface (UPI) is an instant payment system developed by the National Payments Corporation of India (NPCI)."
+    },
+    {
+        "id": 2,
+        "source": "NPCI",
+        "category":"Finance",
+        "topic": "UPI",
+        "text": "UPI enables users to transfer money instantly between participating bank accounts using a mobile application."
+    },
+    {
+        "id": 3,
+        "source": "RBI",
+        "category":"Finance",
+        "topic": "UPI",
+        "text": "The Reserve Bank of India regulates payment systems and supports the development and expansion of digital payments in India."
+    },
+    {
+        "id": 4,
+        "source": "RBI",
+        "category":"Finance",
+        "topic": "UPI",
+        "text": "UPI continues to be available as a digital payment system for customers of participating banks."
+    },
+    {
+    "id": 5,
+    "source": "RBI",
+    "category":"Finance",
+    "topic": "UPI",
+    "text": "The Reserve Bank of India has not announced that UPI will be discontinued."
+    }
+]

@@ -1,0 +1,57 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+ai_venv/
+venv/
+.env
+.env.*
+
+# =========================
+# AWS
+# =========================
+.aws/
+*.pem
+
+# =========================
+# Hugging Face / ML caches
+# =========================
+.cache/
+huggingface/
+models/
+
+# =========================
+# Node / React
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# =========================
+# Temporary files
+# =========================
+*.log
+test.txt
+
+# =========================
+# Installer / executable files
+# =========================
+*.exe
+*.msix
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+# Temporary AWS test files
+s3_test.py
+aws_identity_test.py
+
+# Generated evidence
+evidence.json
