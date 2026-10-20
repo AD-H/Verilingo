@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "claim": "The Reserve Bank of India has announced that UPI will be discontinued.",
+        "verdict": "Contradicted",
+        "source": "RBI",
+        "url": "https://www.rbi.org.in/"
+    },
+    {
+        "id": 2,
+        "claim": "The government has announced a national holiday for Republic Day.",
+        "verdict": "Supported",
+        "source": "Government of India",
+        "url": "https://www.india.gov.in/"
+    },
+    {
+        "id": 3,
+        "claim": "All colleges in India will permanently switch to online education.",
+        "verdict": "Contradicted",
+        "source": "Government of India",
+        "url": "https://www.india.gov.in/"
+    }
+]
